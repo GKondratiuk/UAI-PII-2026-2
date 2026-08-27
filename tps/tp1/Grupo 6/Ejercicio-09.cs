@@ -1,0 +1,10 @@
+﻿string cadena;
+string cadena2;
+string concatenado;
+Console.WriteLine("Ingrese una Frase: ");
+cadena = Console.ReadLine();
+Console.WriteLine("Ingrese una Frase 2: ");
+cadena2 = Console.ReadLine();
+concatenado = $"{cadena} {cadena2}";
+Console.WriteLine("Las dos fraces concatenadas son " + concatenado);
+Console.ReadKey();

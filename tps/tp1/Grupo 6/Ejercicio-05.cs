@@ -1,0 +1,11 @@
+﻿string cadena;
+int a, b, area;
+Console.WriteLine("Ingrese tamaño de uno de los lados");
+cadena = Console.ReadLine();
+a = Convert.ToInt32(cadena);
+Console.WriteLine("Ingrese tamaño del segundo lado");
+cadena = Console.ReadLine();
+b = Convert.ToInt32(cadena);
+area = a * b;
+Console.WriteLine("La superficie es {0}", area);
+Console.ReadKey();
