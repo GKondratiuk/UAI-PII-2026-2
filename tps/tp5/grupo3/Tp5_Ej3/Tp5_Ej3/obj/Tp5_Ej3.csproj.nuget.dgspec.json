@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj": {}
+    "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\grupo3\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj": {
+    "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\grupo3\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj",
+        "projectUniqueName": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\grupo3\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj",
         "projectName": "Tp5_Ej3",
-        "projectPath": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj",
+        "projectPath": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\grupo3\\Tp5_Ej3\\Tp5_Ej3\\Tp5_Ej3.csproj",
         "packagesPath": "C:\\Users\\leike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\Tp5_Ej3\\Tp5_Ej3\\obj\\",
+        "outputPath": "C:\\Users\\leike\\Desktop\\UAI-PII-2026-2\\tps\\tp5\\grupo3\\Tp5_Ej3\\Tp5_Ej3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
